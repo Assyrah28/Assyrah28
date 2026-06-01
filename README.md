@@ -63,12 +63,16 @@ IT graduate passionate about **web development** and **system design**. I build 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Assyrah28&show_icons=true&hide_border=true&count_private=true&bg_color=0f0f1a&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyrah28&layout=compact&hide_border=true&bg_color=0f0f1a&title_color=a855f7&text_color=e2e8f0" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Assyrah28&theme=tokyonight" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Assyrah28&hide_border=true&background=0f0f1a&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&excludeDaysLabel=64748b" alt="GitHub streak" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Assyrah28&theme=tokyonight" alt="Stats" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Assyrah28&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=Assyrah28&hide_border=true&background=0f0f1a&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&excludeDaysLabel=64748b" alt="GitHub streak" />
 </p>
 
 ---
