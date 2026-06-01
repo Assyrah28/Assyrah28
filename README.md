@@ -16,15 +16,20 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Assyrah28&label=Profile%20views&color=a855f7&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ### 👩‍💻 About Me
 
-IT graduate passionate about **web development** and **system design**. I build clean, responsive, and user-friendly applications across the frontend and backend — and I'm continuously growing in the tech industry.
+IT graduate passionate about **web development** and **system design**. I build clean, responsive, and user-friendly applications across the frontend and backend — and I'm always learning.
 
 - 🌐 **Live portfolio:** https://assyrah-alcantara.vercel.app
 - 💼 Open to **full-stack / frontend** opportunities
-- 🌱 Currently sharpening my skills in **Next.js, TypeScript & system architecture**
+- 🌱 Currently leveling up in **Next.js, TypeScript &amp; system architecture**
+- 💬 Ask me about **React, Next.js, Firebase, or building from scratch**
 
 ### 🛠️ Tech Stack
 
@@ -58,8 +63,14 @@ IT graduate passionate about **web development** and **system design**. I build 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Assyrah28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyrah28&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Assyrah28&show_icons=true&hide_border=true&count_private=true&bg_color=0f0f1a&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyrah28&layout=compact&hide_border=true&bg_color=0f0f1a&title_color=a855f7&text_color=e2e8f0" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Assyrah28&hide_border=true&background=0f0f1a&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&excludeDaysLabel=64748b" alt="GitHub streak" />
+</p>
+
+---
 
 <p align="center"><i>“Building clean, responsive experiences — one commit at a time.”</i></p>
