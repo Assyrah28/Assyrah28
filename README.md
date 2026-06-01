@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Assyrah Joice 👋</h1>
+<h1 align="center">Assyrah Joice B. Alcantara</h1>
 
 <p align="center">
-  <b>IT Graduate &amp; Full-Stack Developer</b> · 📍 Bulacan, Philippines
+  <b>IT Graduate &amp; Full-Stack Developer</b> · Bulacan, Philippines
 </p>
 
 <p align="center">
@@ -22,16 +22,15 @@
 
 ---
 
-### 👩‍💻 About Me
+## About
 
-IT graduate passionate about **web development** and **system design**. I build clean, responsive, and user-friendly applications across the frontend and backend — and I'm always learning.
+IT graduate passionate about web development and system design. I build clean, responsive, and user-friendly applications across the frontend and backend.
 
-- 🌐 **Live portfolio:** https://assyrah-alcantara.vercel.app
-- 💼 Open to **full-stack / frontend** opportunities
-- 🌱 Currently leveling up in **Next.js, TypeScript &amp; system architecture**
-- 💬 Ask me about **React, Next.js, Firebase, or building from scratch**
+- Live portfolio: **https://assyrah-alcantara.vercel.app**
+- Open to **full-stack / frontend** opportunities
+- Currently focused on **Next.js, TypeScript, and system architecture**
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -50,7 +49,7 @@ IT graduate passionate about **web development** and **system design**. I build 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -58,9 +57,9 @@ IT graduate passionate about **web development** and **system design**. I build 
 | **Little Lions Monitoring System** | SPED school monitoring system with role-based dashboards | React · Firebase · Firestore |
 | **Recharge Reverse Vending Machine** | Reverse vending machine system with rewards tracking | Full-Stack |
 
-> Explore all of them with live demos on my **[portfolio →](https://assyrah-alcantara.vercel.app)**
+> Explore all of them with live demos on my **[portfolio](https://assyrah-alcantara.vercel.app)**.
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Assyrah28&theme=tokyonight" alt="Profile summary" />
@@ -77,4 +76,4 @@ IT graduate passionate about **web development** and **system design**. I build 
 
 ---
 
-<p align="center"><i>“Building clean, responsive experiences — one commit at a time.”</i></p>
+<p align="center"><i>Building clean, responsive experiences — one commit at a time.</i></p>
