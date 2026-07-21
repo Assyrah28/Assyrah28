@@ -94,8 +94,6 @@ IT graduate passionate about web development and system design. I build clean, r
   </tr>
 </table>
 
-> Explore all of them with live demos on my **[portfolio](https://assyrah-alcantara.vercel.app)**.
-
 ## GitHub Stats
 
 <p align="center">
