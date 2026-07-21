@@ -101,10 +101,6 @@ IT graduate passionate about web development and system design. I build clean, r
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Assyrah28&theme=tokyonight" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <img height="175" src="https://streak-stats.demolab.com?user=Assyrah28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 <p align="center"><i>Building clean, responsive experiences — one commit at a time.</i></p>
