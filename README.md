@@ -53,6 +53,7 @@ IT graduate passionate about web development and system design. I build clean, r
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| **INKfinitee Printing System** | All-in-one business management system for a printing shop — orders, pricing engine, payments, staff attendance | Next.js · Supabase · PostgreSQL |
 | **8Con Academy Website** | Company website for a Philippine forex trading academy | React · Vite · JavaScript · CSS |
 | **Little Lions Monitoring System** | SPED school monitoring system with role-based dashboards | React · Firebase · Firestore |
 | **Recharge Reverse Vending Machine** | Reverse vending machine system with rewards tracking | Full-Stack |
