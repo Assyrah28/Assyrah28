@@ -51,12 +51,48 @@ IT graduate passionate about web development and system design. I build clean, r
 
 ## Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| **INKfinitee Printing System** | All-in-one business management system for a printing shop — orders, pricing engine, payments, staff attendance | Next.js · Supabase · PostgreSQL |
-| **8Con Academy Website** | Company website for a Philippine forex trading academy | React · Vite · JavaScript · CSS |
-| **Little Lions Monitoring System** | SPED school monitoring system with role-based dashboards | React · Firebase · Firestore |
-| **Recharge Reverse Vending Machine** | Reverse vending machine system with rewards tracking | Full-Stack |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://assyrah-alcantara.vercel.app/projects/inkfinitee-printing-system">
+        <img src="https://assyrah-alcantara.vercel.app/projects/inkfinitee/dashboard-dark.jpg" alt="INKfinitee Printing System" width="100%" />
+      </a>
+      <br />
+      <b>INKfinitee Printing System</b><br />
+      All-in-one business management system for a printing shop — orders, pricing engine, payments, staff attendance.<br />
+      <sub>Next.js · Supabase · PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://assyrah-alcantara.vercel.app/projects/8con-academy-website">
+        <img src="https://assyrah-alcantara.vercel.app/projects/8con-academy.jpg" alt="8Con Academy Website" width="100%" />
+      </a>
+      <br />
+      <b>8Con Academy Website</b><br />
+      Company website for a Philippine forex trading academy.<br />
+      <sub>React · Vite · JavaScript · CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://assyrah-alcantara.vercel.app/projects/little-lions-monitoring-system">
+        <img src="https://assyrah-alcantara.vercel.app/projects/little-lions.png" alt="Little Lions Monitoring System" width="100%" />
+      </a>
+      <br />
+      <b>Little Lions Monitoring System</b><br />
+      SPED school monitoring system with role-based dashboards.<br />
+      <sub>React · Firebase · Firestore</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://assyrah-alcantara.vercel.app/projects/recharge-reverse-vending-machine">
+        <img src="https://assyrah-alcantara.vercel.app/RECHARGE/dashboard-light.png" alt="Recharge Reverse Vending Machine" width="100%" />
+      </a>
+      <br />
+      <b>Recharge Reverse Vending Machine</b><br />
+      Solar-powered reverse vending machine with RFID tracking and web monitoring.<br />
+      <sub>PHP · MySQL · Arduino · ESP32</sub>
+    </td>
+  </tr>
+</table>
 
 > Explore all of them with live demos on my **[portfolio](https://assyrah-alcantara.vercel.app)**.
 
@@ -65,6 +101,10 @@ IT graduate passionate about web development and system design. I build clean, r
 <p align="center">
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Assyrah28&theme=tokyonight" alt="Stats" />
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Assyrah28&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img height="175" src="https://streak-stats.demolab.com?user=Assyrah28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
