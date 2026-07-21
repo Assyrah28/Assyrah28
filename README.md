@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/assyrah-joice-alcantara-43a3b9400">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:assyrah.alcantara@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=assyrah.alcantara@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
